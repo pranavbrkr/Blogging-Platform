@@ -1,9 +1,8 @@
 # Blogging_Platform
 
-A Java web blogging application based on Medium.com
+A Java web blogging application, inspired from Medium.com
 
-<img src="https://user-images.githubusercontent.com/31160043/193628378-712aadce-c935-4d40-83c4-1fa3253cd4f5.png" width="1000" height="600">
-
+<img src="https://user-images.githubusercontent.com/31160043/193722273-2d61f0f7-4d36-4003-81d3-94e693869adf.png" width="1050" height="600">
 
 ## Features
 
